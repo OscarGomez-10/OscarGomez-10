@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hola, soy Oscar
 
-<!--
-**OscarGomez-10/OscarGomez-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Mi banner personalizado](https://ruta-de-tu-imagen-aqui)
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy **estudiante del SENA en Análisis y Desarrollo de Software**, apasionado por el mundo del desarrollo y con un fuerte deseo de **crecer, aprender y crear soluciones reales**.
+
+## 🛠️ Mi Stack Tecnológico
+
+<!-- Stack Tecnológico -->
+
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Vue](https://skillicons.dev/icons?i=vue)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Git](https://skillicons.dev/icons?i=git)
+
+## 📫 Contáctame
+
+<p align="left">
+  <!-- Correo -->
+  <a href="mailto:tu-correo@correo.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <!-- LinkedIn -->
+
+  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+## 🚀 Mis Proyectos Reales
+
+Aquí destacaré algunos de mis proyectos más importantes:
+
+* [Proyecto 1](#)
+* [Proyecto 2](#)
+* [Proyecto 3](#)
