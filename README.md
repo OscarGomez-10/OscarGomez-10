@@ -1,8 +1,8 @@
 <!-- <------ Presentación principal------>
 <div align="center">
 
-# Hola, soy Oscar 👋
-<p style="font-size:1.4em; font-weight:600; margin:0;">Bienvenidos</p>
+<p style="font-size:2.4em; font-weight:700; margin:0;">Hola, soy Oscar 👋</p>
+<p style="font-size:1.4em; font-weight:600; margin:4px 0 0;">Bienvenidos</p>
 
 ![Mi banner personalizado](https://ruta-de-tu-imagen-aqui)
 
