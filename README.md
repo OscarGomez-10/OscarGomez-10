@@ -1,12 +1,22 @@
-# 👋 Hola, soy Oscar
+<div align="center">
+
+# Hola, soy Oscar
 
 ![Mi banner personalizado](https://ruta-de-tu-imagen-aqui)
 
-## 👨‍💻 Sobre mí
+</div>
+
+<div align="center" style="margin-top: 30px;">
+
+## Sobre mí
 
 Soy **estudiante del SENA en Análisis y Desarrollo de Software**, apasionado por el mundo del desarrollo y con un fuerte deseo de **crecer, aprender y crear soluciones reales**.
 
-## 🛠️ Mi Stack Tecnológico
+</div>
+
+<div align="center" style="margin-top: 30px;">
+
+## Mi Stack Tecnológico
 
 <!-- Stack Tecnológico -->
 
@@ -18,7 +28,11 @@ Soy **estudiante del SENA en Análisis y Desarrollo de Software**, apasionado po
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Git](https://skillicons.dev/icons?i=git)
 
-## 📫 Contáctame
+</div>
+
+<div align="center" style="margin-top: 30px;">
+
+## Contáctame
 
 <p align="left">
   <!-- Correo -->
@@ -33,10 +47,16 @@ Soy **estudiante del SENA en Análisis y Desarrollo de Software**, apasionado po
   </a>
 </p>
 
-## 🚀 Mis Proyectos Reales
+</div>
+
+<div align="center" style="margin-top: 30px;">
+
+## Mis Proyectos Reales
 
 Aquí destacaré algunos de mis proyectos más importantes:
 
 * [Proyecto 1](#)
 * [Proyecto 2](#)
 * [Proyecto 3](#)
+
+</div>
