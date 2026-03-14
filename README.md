@@ -21,7 +21,7 @@
 </div>
 
 <div align="center" style="margin-top: 10px;">
-Aprendiz en desarrollo de software, con mayor afinidad por el desarrollo backend y la construcción de lógica de negocio.  
+Aprendiz en desarrollo de software, con mayor afinidad por el desarrollo backend.  
 Cuento con conocimientos en frontend, lo que me permite comprender el flujo completo de una aplicación y facilitar la integración entre capas.  
 Me caracterizo por la responsabilidad, la actitud proactiva y el aprendizaje continuo.
 </div>
